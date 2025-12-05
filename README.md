@@ -17,3 +17,5 @@
  - ./gradlew clean
 ### 4. 元のフォルダに戻る
  - cd ..
+### 5. サーバー再起動
+ - npx react-native start --reset-cache
