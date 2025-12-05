@@ -7,4 +7,4 @@
 - すでにある仮想スマホの右側の「▶︎（再生ボタン）」を押して起動（なければ「Create device」から作成）
 - コマンドプロンプトでアプリのフォルダに移動
 - コマンドプロンプトで下記コマンドを実行
--- npx react-native run-android
+  - npx react-native run-android
